@@ -1,2 +1,2 @@
 # my-first-repo
-Practicing git
+Practicing Git Meta Version Control Course
